@@ -17,7 +17,7 @@ In this project, you'll learn how to create visualizations from a large dataset 
 - Open the AWS management console and navigate to Amazon Quicksight.
 - Sign up for a free trial of the Enterprise edition if you don't have an account.
 - Select Amazon S3 and tick the box for the S3 bucket you created.
-- Enter the link S3-URL to your "manifest.json" file and connect to Quicksight.
+- Enter the link S3-URI to your "manifest.json" file and connect to Quicksight.
 - Select "interactive sheet" to start creating visualizations.
 
 ### **Step #4: Create Visualizations**
@@ -26,4 +26,4 @@ In this project, you'll learn how to create visualizations from a large dataset 
 - Experiment with different types of graphs like bar charts, pie charts, line graphs, etc.
 
 ### **Project Completion Time**
-- Approximately 1-2 hours, depending on the complexity of the visualizations.
+- Approximately 1 hour, depending on the complexity of the visualizations.

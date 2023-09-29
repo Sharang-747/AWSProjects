@@ -21,7 +21,7 @@ In this project, you'll learn how to create visualizations from a large dataset 
 
 ### **Step #4: Create Visualizations**
 - Drag fields into the graph to create visualizations (e.g., Most popular Authors).
-Sort, filter, and customize the graphs as desired.
+- Sort, filter, and customize the graphs as desired.
 - Experiment with different types of graphs like bar charts, pie charts, line graphs, etc.
 
 ### **Project Completion Time**
